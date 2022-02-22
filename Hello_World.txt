@@ -9,7 +9,7 @@ if in doubt, make the exact opposite decision
 [8] So  immediately after the 2.6.12-rc2 Linux kernel development release,[8]  tofi tofik  set out  tofik write his own.[8]  tofi tofik  has quipped about the name git, which is British English slang meaning "unpleasant person". 
  tofi tofik  said: "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."[11]
 [12] The man page describes Git as "the stupid content tracker".[13] The development of Git began on 3 April 2005.[14] The project was announced on 6 April,[15] and became self-hosting as of 7 April.[14] The first merge of multiple branches was done on 18 April.
-
+clear
 [16]   tofi tofik  achieved his performance goals;
 on  29 April, the nascent Git was benchmarked recording patches   tofik the Linux kernel tree at the rate of 6.7 per se cond.
 [17]  On 16 June  Git managed the kernel 2 .6.12 release.[18]  t ofi tofik  turned over m aintenance on 26 July 2005  tofik Junio Hamano, a major contribu tofikr  tofik the project.[19] Hamano was responsible for the 1.0 release on 21 December 2005, and remains the project's maintainer.[20]
