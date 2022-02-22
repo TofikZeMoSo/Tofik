@@ -15,3 +15,6 @@ Torvalds said: "I'm an egotistical bastard, and I name all my projects after mys
 [17] On 16 June Git managed the kernel 2.6.12 release.[18] Torvalds turned over maintenance on 26 July 2005 to Junio Hamano, a major contributor to the project.[19] Hamano was responsible for the 1.0 release on 21 December 2005, and remains the project's maintainer.[20]
 5. Commit to your local repository and push it to the Github repository.
 6. Replace all "to" words by your name. Check git diff to make sure all to words have been replaced and make another commit and push it to Github.
+
+
+Tofik Maniyar
